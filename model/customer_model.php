@@ -180,9 +180,7 @@ class Customer
         return $con->query($sql);
     }
 
-
-
-
+//test
 
 }
 
