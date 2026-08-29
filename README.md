@@ -56,19 +56,7 @@ The application follows the **MVC (Model-View-Controller)** pattern:
 - `View/` — User interface / presentation layer
 - `Controller/` — Handles user requests and coordinates between Model and View
 
-### Project Folder Structure
 
-```
-quickship/
-├── Commons/       # Reusable functions, configurations, and utilities
-├── Controller/    # Request handling and application logic
-├── CSS/           # Stylesheets
-├── Images/        # Image assets
-├── Includes/      # Shared/reusable PHP files
-├── JS/            # JavaScript (form validation, events, animations)
-├── Model/         # Database interaction and business logic
-└── View/          # UI templates and pages
-```
 
 ### Coding Conventions
 
